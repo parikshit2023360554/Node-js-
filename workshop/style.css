@@ -1,0 +1,42 @@
+.input{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.main{
+    margin-bottom: 30px;
+}
+
+.search{
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.btn{
+    background: green;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.mainlist{
+    margin-bottom: 10px;
+}
+
+.listadd{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid rgb(118, 118, 118);
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+
+.delbtn{
+    background: red;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+
+}
